@@ -5,13 +5,15 @@ sections:
   - type: hero
     heading: This is your main value proposition
     body: >
-      And a super compelling supporting paragraph that makes the user immediately want to click the button below.
+      And a super compelling supporting paragraph that makes the user
+      immediately want to click the button below.
     button:
       label: Get Started
       url: /
       theme: outline
     image:
-      src: /images/fpo-shapes.png
+      src: >-
+        http://res.cloudinary.com/nr-test-cloud/image/upload/v1718734507/dollysax_wv9g8j.jpg
       alt: Stackbit Shapes
     theme: imgRight
   - type: stats
